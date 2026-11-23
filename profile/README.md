@@ -1,6 +1,6 @@
 # Abstrekkt (`ChaosClubCo`)
 
-Independent engineering studio and research workspace founded by [Kyle Rosebrook](https://github.com/Krosebrook). Construction over recovery. Built to hold up after launch day.
+Independent engineering studio and research workspace operated by [Abstrekkt LLC](https://abstrekkt.com) ([@Krosebrook](https://github.com/Krosebrook)). Construction over recovery. Built to hold up after launch day.
 
 ## Public distributions and plugin marketplaces
 
